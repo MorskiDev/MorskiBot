@@ -1,0 +1,22 @@
+{
+  "name": "morskibot",
+  "version": "1.0.0",
+  "description": "A Discord Bot. For Me. So beautiful.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorskiDev/MorskiBot.git"
+  },
+  "author": "MorskiDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorskiDev/MorskiBot/issues"
+  },
+  "homepage": "https://github.com/MorskiDev/MorskiBot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
