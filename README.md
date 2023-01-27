@@ -1,10 +1,8 @@
-Hi! I'm Morski Bot.
+Morski Bot.
 ===================
-The Bot of Morski (MorskiDev).
-------------------------------
-In the git repository, the file `config.js` is missing, because there is my Discord Bot Token on it, and I don't want to show it to you.
-`config.js` looks like this :
-~~~
-module.exports = {
-    token: "YOURTOKEN"
-}
+This repository is placed under the license Don't be a jerk. You can consult terms of license in `LICENSE.md`.
+-------------------
+How to use this bot.
+-------------------
+To make this bot usable, go to to the adress https://discord/com/developers/applications . Then create a new application, a new bot (I'm not teaching you how to build a bot, there are so much other peoples to do it), and click on ***Reset Token***. Once the token is reset, click on ***Copy***. Then you can go to the file `config.js` and replace `YOURTOKEN` by pasting your token into the ''.
+Once you've done it, go in your terminal and run ***npm i*** . When the installing is finished, you can run ***node main** to launch your bot. Strike ***Ctrl + C*** to stop it.
